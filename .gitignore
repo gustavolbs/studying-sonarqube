@@ -1,0 +1,5 @@
+node_modules/
+go.mod
+.scannerwork/
+coverage/
+*.out
