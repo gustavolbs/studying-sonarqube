@@ -1,4 +1,5 @@
-sonar.projectKey=go-project
+sonar.projectKey=gustavolbs_studying-sonarqube
+sonar.organization=gustavolbs
 
 sonar.sources=.
 sonar.exclusions=**/*_test.go

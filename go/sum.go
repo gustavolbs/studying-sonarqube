@@ -18,6 +18,6 @@ func times(a int, b int) int {
 	return a * b
 }
 
-func sumX(a int, b int) int {
+func sum2a(a int, b int) int {
 	return a + a + b
 }
